@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Nodes code 
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+## SingleItem
+- Build form width one config
+- Link note: [SingleItem.md](https://github.com/hoangp0915/hoangp0915.github.io/blob/master/SingleItem.md)
