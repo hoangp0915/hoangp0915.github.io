@@ -1,2 +1,27 @@
 # Create dialog service
 - [angular-dynamic-components](https://malcoded.com/posts/angular-dynamic-components/)
+# Extensions vscode:
+- abierbaum.vscode-file-peek
+- alefragnani.Bookmarks
+- azemoh.one-monokai
+- ChakrounAnas.turbo-console-log
+- christian-kohler.path-intellisense
+- CoenraadS.bracket-pair-colorizer
+- dbaeumer.vscode-eslint
+- donjayamanne.githistory
+- eamodio.gitlens
+- eg2.tslint
+- Equinusocio.vsc-material-theme
+- esbenp.prettier-vscode
+- HookyQR.beautify
+- jcbuisson.vue
+- joelday.docthis
+- mgmcdermott.vscode-language-babel
+- mhutchie.git-graph
+- Mikael.Angular-BeastCode
+- ms-vscode.vscode-typescript-tslint-plugin
+- PKief.material-icon-theme
+- quicktype.quicktype
+- thekalinga.bootstrap4-vscode
+- tinkertrain.theme-panda
+- Zignd.html-css-class-completion
