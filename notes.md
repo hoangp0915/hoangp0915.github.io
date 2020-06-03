@@ -25,3 +25,9 @@
 - thekalinga.bootstrap4-vscode
 - tinkertrain.theme-panda
 - Zignd.html-css-class-completion
+# Sku
+- https://anonystick.com/blog-developer/es2020-javascript-hoan-thien-code-cua-chung-ta-da-thay-doi-nhu-the-nao-2020052879300308
+ ```
+  0 ?? 18 => 0
+  null ?? 18 -> 18
+ ```
