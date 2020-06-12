@@ -41,3 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## SingleItem
 - Build form width one config
 - Link note: [SingleItem.md](https://github.com/hoangp0915/hoangp0915.github.io/blob/master/SingleItem.md)
+# Code online
+https://codesandbox.io/s/gifted-kapitsa-ljon9?file=/src/services/firebase.js
