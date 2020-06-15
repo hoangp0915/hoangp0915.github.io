@@ -35,3 +35,4 @@
 # https://medium.com/@joshblf/wtf-is-ng-content-8382b2a664e1
 # https://www.tiepphan.com/thu-nghiem-voi-angular-content-projection-trong-angular/
 # https://github.com/Dunebook/Firebase-auth-chat-app
+# https://react-hook-form.com/form-builder
