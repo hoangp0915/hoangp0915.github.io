@@ -36,3 +36,4 @@
 # https://www.tiepphan.com/thu-nghiem-voi-angular-content-projection-trong-angular/
 # https://github.com/Dunebook/Firebase-auth-chat-app
 # https://react-hook-form.com/form-builder
+https://1drv.ms/f/s!BLfHiibMsRPEgrEaQ1D1Tqly6qzdvQ?e=zFn2rZQZ1UaiK9f3uxYHVw&at=9
